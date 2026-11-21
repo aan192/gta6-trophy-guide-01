@@ -1,0 +1,962 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "guide": "Earn all other 54 trophies to unlock the platinum Leonida Legend trophy. Plan your playthrough around missable chapter missions and side activities.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PSNProfiles — GTA VI Guide"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 6,
+   "steps": [
+    "Complete story campaign",
+    "Clear all strangers & freaks",
+    "Collect all collectibles",
+    "Gold medal activities"
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "guide": "Complete the opening prologue mission 'Gone Fishing' introducing Jason and Lucia in Vice City.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PowerPyx — GTA VI Trophy Guide"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Start new game",
+    "Follow tutorial prompts",
+    "Complete Gone Fishing"
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "guide": "Complete all narrative operations in Chapter 1 establishing the crew's operational base.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PSNProfiles — GTA VI Guide"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Play Chapter 1 missions",
+    "Secure safehouse"
+   ]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "guide": "Complete Chapter 2. Note: Certain side interactions in this chapter are missable if you progress too fast before opening free roam.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "GTA Wiki (Fandom)"
+   ],
+   "kind": "story",
+   "missable": true,
+   "stage": 1,
+   "steps": [
+    "Complete Chapter 2 main jobs",
+    "Check side quest availability"
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "guide": "Complete Chapter 3 as the narrative shifts deeper into Vice City's underground syndicates.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PSNProfiles — GTA VI Guide"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Advance Chapter 3 operations"
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "guide": "Complete Chapter 4 leading up to the climax of the main campaign.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PowerPyx — GTA VI Trophy Guide"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Execute Chapter 4 missions"
+   ]
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "guide": "Complete the final campaign mission. Ensure manual saves before the point of no return to avoid locking out specific choices.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PSNProfiles — GTA VI Guide"
+   ],
+   "kind": "story",
+   "missable": true,
+   "stage": 1,
+   "steps": [
+    "Prepare loadout",
+    "Complete final mission sequence"
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "guide": "Complete the mission 'Breakfast Run'. Follow your partner carefully during the timed getaway.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Initiate Breakfast Run",
+    "Evade police pursuit"
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "guide": "Complete 'The Cartel Heist'. Coordinate timing and team roles for optimal score.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PowerPyx — GTA VI Guide"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Plan heist",
+    "Execute Cartel Heist"
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "guide": "Complete 'Child's Play'. Protect family assets across the bayou.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Reach objective",
+    "Defend target"
+   ]
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "guide": "Complete the high-stakes music industry mission 'Headliners'.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Infiltrate venue",
+    "Complete Headliners"
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "guide": "Complete 'VCIA Takedown' at the airport terminal.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Breach terminal",
+    "Secure area"
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "guide": "Complete 'Operation Savage Glory' involving heavy military hardware.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Board transport",
+    "Complete operation"
+   ]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "guide": "Attain 100% total game completion by finishing story, strangers, hobbies, and random events across Leonida.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PSNProfiles — GTA VI Guide"
+   ],
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 3,
+   "steps": [
+    "Track completion stats in pause menu",
+    "Clean up remaining activities"
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "guide": "Successfully complete 250 stunt jumps scattered across Vice City and the surrounding countryside.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "GTA Wiki (Fandom)"
+   ],
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "steps": [
+    "Locate stunt ramps",
+    "Land 250 unique jumps cleanly"
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "guide": "Try all 9 distinct activity types at least once (e.g., racing, shooting range, bowling, arcade, fishing, drone racing, meditation, hunting, yoga).",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PSNProfiles — GTA VI Guide"
+   ],
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "steps": [
+    "Visit each activity location",
+    "Complete one round of each"
+   ]
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "guide": "Earn gold medals across all 42 Shooting Range challenges by mastering weapon accuracy and target reload speeds.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PowerPyx — GTA VI Guide"
+   ],
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "steps": [
+    "Visit Ammu-Nation shooting ranges",
+    "Beat gold target scores on all 42 courses"
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "guide": "Win a Top Fun Drone Race at all 14 designated map locations.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "steps": [
+    "Locate drone race beacons",
+    "Place 1st in all 14 courses"
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "guide": "Win 20 different street and track races across Leonida.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "steps": [
+    "Enter race markers on map",
+    "Win 20 unique race events"
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "guide": "Beat Cal in a fishing challenge down at the Keys docks.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "steps": [
+    "Meet Cal",
+    "Catch heavier fish within time limit"
+   ]
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "guide": "Play and complete a full arcade game cabinet in the local arcade or safehouse.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "steps": [
+    "Find arcade cabinet",
+    "Play until game completion screen"
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "guide": "Complete the final mission for Andy. Missable if you ignore stranger strands before end-game.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PSNProfiles — GTA VI Guide"
+   ],
+   "kind": "missable",
+   "missable": true,
+   "stage": 2,
+   "steps": [
+    "Locate Andy's marker",
+    "Finish final strand mission"
+   ]
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "guide": "Complete the final mission for Kenton. Missable prior to chapter close.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "missable",
+   "missable": true,
+   "stage": 2,
+   "steps": [
+    "Track Kenton",
+    "Complete questline"
+   ]
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "guide": "Complete the final mission for Billy. Missable during Act 2.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "missable",
+   "missable": true,
+   "stage": 2,
+   "steps": [
+    "Meet Billy",
+    "Finish mission arc"
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "guide": "Complete 8 distinct stranger mission strands across the state of Leonida before story lockouts.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PowerPyx — GTA VI Guide"
+   ],
+   "kind": "missable",
+   "missable": true,
+   "stage": 2,
+   "steps": [
+    "Explore map for '?' icons",
+    "Complete 8 full stranger questlines"
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "guide": "Complete the final mission for Randy. Missable if ignored during mid-game.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "missable",
+   "missable": true,
+   "stage": 2,
+   "steps": [
+    "Locate Randy",
+    "Complete final objective"
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "guide": "Complete the final mission for Tyrone. Missable side arc.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "missable",
+   "missable": true,
+   "stage": 2,
+   "steps": [
+    "Find Tyrone",
+    "Finish mission"
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "guide": "Meditate at all 18 peaceful spots across Leonida's beaches and nature reserves.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "GTA Wiki (Fandom)"
+   ],
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 3,
+   "steps": [
+    "Visit meditation spots",
+    "Hold meditation interaction"
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "guide": "Hunt the unique legendary animal requested by Bret. Missable hunting side-quest.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "missable",
+   "missable": true,
+   "stage": 2,
+   "steps": [
+    "Meet Bret",
+    "Track and bag unique animal"
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "guide": "Collect and complete 3 full Collectible Card sets hidden throughout the game world.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PowerPyx — GTA VI Guide"
+   ],
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 3,
+   "steps": [
+    "Find card packs",
+    "Complete all 3 sets"
+   ]
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "guide": "Use the 'WAiNK It' social app feature at 100 distinct tourist and scenic locations.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 3,
+   "steps": [
+    "Open WAiNK app",
+    "Snap photos at 100 spots"
+   ]
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "guide": "Complete 50 daily or milestone challenges tracked in your player log.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "steps": [
+    "Check challenge log",
+    "Complete 50 unique tasks"
+   ]
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "guide": "Lose an active 4-star Wanted Level while cooperating with your partner in free roam.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PSNProfiles — GTA VI Guide"
+   ],
+   "kind": "online",
+   "missable": false,
+   "stage": 5,
+   "steps": [
+    "Trigger 4-star wanted level",
+    "Escape police sightlines with partner"
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "guide": "Rob 3 convenience stores back-to-back with your partner without losing your Wanted Level.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "online",
+   "missable": false,
+   "stage": 5,
+   "steps": [
+    "Hold up shop 1",
+    "Flee directly to shop 2 and 3 maintaining pursuit"
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "guide": "Discover and drive 100 unique vehicle models across Leonida.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "GTA Wiki (Fandom)"
+   ],
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 3,
+   "steps": [
+    "Inspect parked and moving vehicles",
+    "Log 100 distinct models"
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "guide": "Take down 5 enemies during a single activation of the Combat Focus ability.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "online",
+   "missable": false,
+   "stage": 5,
+   "steps": [
+    "Fill Combat Focus meter",
+    "Trigger ability and secure 5 quick kills"
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "guide": "Make an unscheduled departure from the VCIA terminal during heist operations.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Trigger runway escape event"
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "guide": "Infiltrate and deal with military Rhino tanks during high alert operations.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Disable Rhino tanks"
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "guide": "Rob a jewelry store in Vice City without triggering the silent alarm or being detected.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PowerPyx — GTA VI Guide"
+   ],
+   "kind": "story",
+   "missable": true,
+   "stage": 1,
+   "steps": [
+    "Use stealth approach",
+    "Loot display cases quietly",
+    "Escape undetected"
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "guide": "Successfully rob 5 major Bank Vaults across Leonida and escape the authorities.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PSNProfiles — GTA VI Guide"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Plan bank vaults",
+    "Drill and loot 5 vaults",
+    "Escape police"
+   ]
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "guide": "Intercept and rob an Armored Cash Truck on the highway, then escape.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Ambush armored truck",
+    "Blow doors and grab cash",
+    "Evade cops"
+   ]
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "guide": "Explore all 52 distinct districts and zones of the state of Leonida.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "GTA Wiki (Fandom)"
+   ],
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 3,
+   "steps": [
+    "Travel across all map regions until fog of war clears"
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "guide": "Raid and rob one illegal operation belonging to each of the 9 rival gangs.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Locate gang fronts",
+    "Clear out all 9 faction operations"
+   ]
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "guide": "Enjoy a relaxing cocktail with an ocean view at Ocean Beach.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 3,
+   "steps": [
+    "Visit Ocean Beach bar",
+    "Order cocktail"
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "guide": "Smash your way out of a heavily guarded vehicle showroom in classic cinematic style.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Drive car through showroom glass window",
+    "Escape heat"
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "guide": "Play a frameset of bowling at the Kolt & Associates bowling alley.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "steps": [
+    "Visit Kolt & Associates alley",
+    "Bowl a game"
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "guide": "Trigger a cooperative partnership event with mass public appeal.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "online",
+   "missable": false,
+   "stage": 5,
+   "steps": [
+    "Perform synchronized duo action in public"
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "guide": "Make pivotal narrative choices throughout the campaign (tracked up to 500 decision points).",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "story",
+   "missable": true,
+   "stage": 1,
+   "steps": [
+    "Make choices during dialogues and missions"
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "guide": "Succeed on a retry after failing a mission or challenge objective.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "steps": [
+    "Retry failed checkpoint and succeed"
+   ]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "guide": "Witness one of the paranormal or strange occurrences hidden in the swamps and city.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "GTA Wiki (Fandom)"
+   ],
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 3,
+   "steps": [
+    "Visit mystery locations at night"
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "guide": "Knock down an NPC or rival using a melee attack during a vehicle drive-by.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "steps": [
+    "Equip melee weapon in vehicle",
+    "Drive past target and strike"
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "guide": "Earn $250,000 in clean funds by laundering Marked Bills through criminal contacts.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PSNProfiles — GTA VI Guide"
+   ],
+   "kind": "online",
+   "missable": false,
+   "stage": 5,
+   "steps": [
+    "Collect marked bills",
+    "Use contact laundering services until $250k cleaned"
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "guide": "Spend a cumulative total of $100,000 across clothing, weapon, and vehicle modification shops.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 3,
+   "steps": [
+    "Shop at various retail stores until $100k spent"
+   ]
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "guide": "Purchase all 8 garage properties available for acquisition across Leonida.",
+   "sources": [
+    "Exophase — GTA VI trophies",
+    "PowerPyx — GTA VI Guide"
+   ],
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 3,
+   "steps": [
+    "Visit real estate broker or web",
+    "Buy all 8 garages"
+   ]
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "guide": "Register 10 different vehicles to the Scooter Bros mobile app.",
+   "sources": [
+    "Exophase — GTA VI trophies"
+   ],
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "steps": [
+    "Open Scooter Bros app on in-game phone",
+    "Register 10 vehicles"
+   ]
+  }
+ ]
+}

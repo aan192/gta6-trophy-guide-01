@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grand Theft Auto VI — 100% Trophy & Achievement Hub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-inner">
+      <h1>GTA VI Trophy Guide & Tracker</h1>
+      <p class="subtitle">Complete 55 PlayStation 5 Trophies, Missable Alerts, Interactive Roadmap & Source Citations</p>
+    </div>
+    <div class="header-stats">
+      <div class="stat-pill"><span id="stat-earned">0</span> / 55 Earned (<span id="stat-pct">0%</span>)</div>
+      <div class="progress-bar-container"><div id="progress-bar" style="width: 0%"></div></div>
+    </div>
+  </header>
+
+  <nav class="view-nav">
+    <button class="nav-btn active" data-view="checklist">Checklist & Tracker</button>
+    <button class="nav-btn" data-view="roadmap">Platinum Roadmap</button>
+    <button class="nav-btn" data-view="missables">Missables Alert (<span id="missables-count">0</span>)</button>
+    <button class="nav-btn" data-view="guide">Guide Hub</button>
+    <div class="nav-actions">
+      <label class="toggle-label"><input type="checkbox" id="spoiler-toggle"> Hide Spoilers</label>
+      <button id="export-btn" class="btn secondary">Export Progress</button>
+      <label class="btn secondary upload-btn">Import<input type="file" id="import-file" accept=".json" hidden></label>
+    </div>
+  </nav>
+
+  <main class="app-main">
+    <!-- Checklist View -->
+    <section id="view-checklist" class="view-panel active">
+      <div class="filters-bar">
+        <input type="text" id="search-input" placeholder="Search trophies or descriptions..." />
+        <select id="filter-kind">
+          <option value="all">All Kinds</option>
+          <option value="story">Story</option>
+          <option value="missable">Missable</option>
+          <option value="collectibles">Collectibles</option>
+          <option value="activities">Activities</option>
+          <option value="online">Online / Partner</option>
+        </select>
+        <select id="filter-grade">
+          <option value="all">All Grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+        <select id="filter-status">
+          <option value="all">All Status</option>
+          <option value="earned">Earned</option>
+          <option value="unearned">Unearned</option>
+        </select>
+        <button id="reset-filters" class="btn small">Reset</button>
+      </div>
+
+      <div class="grade-summary-cards">
+        <div class="grade-card platinum">Platinum: <span id="count-platinum">0/1</span></div>
+        <div class="grade-card gold">Gold: <span id="count-gold">0/2</span></div>
+        <div class="grade-card silver">Silver: <span id="count-silver">0/8</span></div>
+        <div class="grade-card bronze">Bronze: <span id="count-bronze">0/44</span></div>
+      </div>
+
+      <div class="table-container">
+        <table class="trophy-table">
+          <thead>
+            <tr>
+              <th class="th-check">Done</th>
+              <th class="th-grade">Grade</th>
+              <th class="th-name">Trophy Name</th>
+              <th class="th-desc">Description & Guide Preview</th>
+              <th class="th-kind">Kind</th>
+              <th class="th-action">Actions</th>
+            </tr>
+          </thead>
+          <tbody id="trophy-tbody">
+            <!-- Populated by JS -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Roadmap View -->
+    <section id="view-roadmap" class="view-panel">
+      <div class="roadmap-intro">
+        <h2>Platinum Walkthrough Roadmap (6 Stages)</h2>
+        <p>Follow this chronological strategy to secure your 100% Platinum in Grand Theft Auto VI efficiently without missing missable chapter trophies.</p>
+      </div>
+      <div id="roadmap-container" class="roadmap-stages">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- Missables View -->
+    <section id="view-missables" class="view-panel">
+      <div class="missables-intro">
+        <h2>Missable Trophies Warning Hub</h2>
+        <p>The following trophies can be permanently locked out if you advance past specific chapters or neglect secondary questlines. Keep manual backup saves!</p>
+      </div>
+      <div id="missables-container" class="missables-grid">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- Guide Hub View -->
+    <section id="view-guide" class="view-panel">
+      <div class="guide-layout">
+        <div class="guide-sidebar">
+          <h3>Select Trophy</h3>
+          <input type="text" id="guide-search" placeholder="Filter trophies..." />
+          <div id="guide-list-side" class="guide-side-list"></div>
+        </div>
+        <div class="guide-content-pane" id="guide-detail-pane">
+          <div class="empty-guide-state">Select a trophy from the left list to view its full guide, walkthrough steps, missable warnings, and cited sources.</div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <p>Grand Theft Auto VI Trophy & Achievement Guide 100% Completionist Hub · Built for offline play · All data local</p>
+  </footer>
+
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>
